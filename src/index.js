@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 
 /**
- * @todo Take over the world
+ * @todo Well, well
  * @body Well, well
  */
 function ruleOverPunyHumans() {
